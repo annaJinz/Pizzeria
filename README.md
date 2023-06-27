@@ -1,4 +1,4 @@
-# Ejemplo de Flexbox-y-CSS-Grid en una pagina web de una Pizzería
+# Ejemplo de Flexbox y CSS-Grid en una pagina web de una Pizzería
 ## ÍNDICE
 1. Intro 😶‍🌫️
 2. Que construí ⚒️
