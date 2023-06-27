@@ -17,5 +17,5 @@ el CSS-grid nos ayudo para poner un diseño ya determinado.
 Aprender a utilizar las etiquetas flexbox y CSS-Grid.
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: [pagina de pizzeria](#)
+Aquí puedes visualizar mi proyecto terminado: [pagina de pizzeria](https://gleaming-sunflower-de709.netlify.app/)
 
